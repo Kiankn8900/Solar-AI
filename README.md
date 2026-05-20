@@ -155,7 +155,7 @@ The user interface is built with Streamlit and fully customized using CSS.
 Open CMD or Terminal and run:
 
 ```bash id="r6k2mx"
-git clone https://github.com/YOUR_USERNAME/solar-ai.git
+git clone https://github.com/Kiankn8900/solar-ai.git
 ```
 
 Then enter the project folder:
